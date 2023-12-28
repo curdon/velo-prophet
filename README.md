@@ -1,4 +1,4 @@
-# Unterlagen zur Probevorlesung als Dozent*in Data Science
+# Unterlagen zur Probevorlesung als Dozent*in Data Science an der HSLU
 
 Im Repo finden sich folgende Unterlagen:
 1. Datenanalyse: Im Ordner finden sich zwei Python Jupyter Notebooks. Lediglich das Analyse-Notebook ist relevant für den Inhalt der Vorlesung. Das Notebook zur Datenaufbereitung umfasst das Herunterladen, Filtern und Bereinigen der Zähldaten für die anschliessende Analyse. 
